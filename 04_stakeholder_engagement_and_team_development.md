@@ -191,18 +191,167 @@
 
 ## Agile Team Development
 
+- Self-organizing and self-disciplined, but leadership still required
+- Coach
+  - Develop and maximize team and individual performance
+  - Agile practices in daily work
+  - Take initiative, fail and recover, remover obstacles
+  - Working relationship with team members
+  - Remind goals of project
+- Leaders
+  - Recognize when tem is underperforming
+  - Set high expectations as benchmark
+  - Remove obstacles
+  - Recognizing individual efforts and contributions
+    - Need to know work is meaningful and worthwhile
+    - Quest for success
+    - Recognize valuable contributions
+  - Quickly identify problems
+    - Can quickly be resolved
+  - Ensure team members are energized
+    - Work/life balance
+    - Constant overtime - poor time management, unsustainable
+  - Focus on one task at a time
+    - Multitasking not effective
+    - Reduces productivity
+    - Effort needed for switching focus
 
+- **SUMMARY**
+  - Set high performance benchmarks
+  - Recognize individual contributions
+  - Quickly ID problems
+  - Ensure team energized
+  - Focus on one task at a time
 
 ## Developmental Mastery Models
 
+- Individual and team development
+  
+1. Shu-Ha-Ri Developmental Mastery Model
+   - Aikido
+   - Learning in agile
+   - SHU: Beginning - follows and copies teachings precisely, concentrates on how to do task
+   - HA: Branch out and try variations of technique, adaptation
+   - RI: Learning from his or her own practices. Adapted approach to circumstances
+2. Dreyfus Model of Skill Acquisition
+   - Evaluation and coaching model
+   - "To become competent, you must feel bad."
+   - Concrete experience: starting to use practice
+   - Recollection
+     - Situational
+     - Non-situational
+   - Recognition
+     - Decomposed
+     - Holistic
+   - Decision
+     - Analytical
+     - Intuitive
+   - Awareness
+     - Monitoring
+     - Absorbed
+    1. Novice:
+    2. Advanced Beginner:
+    3. Competent:
+    4. Proficient:
+    5. Expert:
+
+3. Tuckman's Model of Group Development
+   1. Forming
+    - Team members brought together
+    - Different levels of enthusiasm
+    - Assure definition of each persons roles
+   2. Storming
+    - Push against boundaries
+    - Potential to fail
+    - Personal goals over team goals
+    - Need to coach in assertiveness and conflict resolution
+    - Normal part of process
+   3. Norming
+    - Resolve differences
+    - Appreciate colleagues strengths
+    - Respect the team
+   4. Performing
+        - Work on goals without friction
+   5. Adjourning
 
 
+- **SUMMARY**
+    - Shu-Ha-Ri
+      - Sages of learning: innovate, understand, self-driven
+    - Dreyfus
+      - Four binary qualities
+    - Tuckman's
+      - Five stages of group development
 
 ## Communication Tools
 
-
+- Knowledge sharing
+- Free flow of information
+1. Flow  Charts
+   - Detailed logic of process or rule
+   - Keep things simple
+   - Whiteboard
+   - Value in act of monitoring
+2. User Story Cards
+    - Index cards
+    - Prioritized 1-10
+    - Unique ID
+      - Traceability
+3. Burndown Charts
+    - Time on x
+    - Features to be completed on y
+    - Let all people see visual status
+4. Task Board
+    - Living entity
+    - Manually maintained to be useful
+5. Planning board
+6. Storyboards
+    - Visualize interactions
+    - See what work needs to be completed
+7. Documentation
+    - Use sparingly, but essential
+    - Content and context
+    - Dispersed teams - social media tools for collaboration
+      - Open and free flowing information
+  
+- **Summary**
+  - Many Communication tools available
+    - Flowcharts
+    - User Story Cards
+    - Burndown Charts
+    - Task boards
+    - Planning boards
+    - Storyboards
+    - Documentation
+    - Social media tools
 
 ## Agile Games
 
+- Facilitation techniques
+- Model complex time consuming processes
+- Facilitate communications
+- Benefits
+  - Foster collaboration
+  - Communication
+  - Innovation
+- Teach, demonstrate, improve
+- Cooperation, clarify, inspire, harmonize, process checking
+- Overcome domination, blocking / discounting
+- Collaboration activities
+- Brainstorming
+- Contrasting Variants
+- Retrospective
+- Learning matrix
+  - Find things to improve upon
+- Drawing
+- Storytelling
+- Effective
 
-
+- **SUMMARY**
+- Effective facilitation techniques
+- Foster collaboration, communication, and innovation
+- Can be used to teach, demonstrate, and improve processes
+- Help Model complex processes
+- Facilitate issue examination and improvement identification
+- Drive good behaviors
+- Help overcome destructive behaviors
