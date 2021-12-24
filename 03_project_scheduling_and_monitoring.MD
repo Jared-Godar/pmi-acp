@@ -1,6 +1,6 @@
 # Agile Project Scheduling and Monitoring
 
-## Work in Progrss Limits
+## Work in Progress Limits
 
 - Flow and productive state essential.
 - Limiting work
@@ -8,7 +8,7 @@
   - Prevent bottlenecks
   - Improve throughput
   - Min / Max concurrent workload - realistic, avoid multi-tasking
-- Ensures limites agreed upon during planning part of prcess
+- Ensures limits agreed upon during planning part of process
 - Identify idleness and overload
   - Developers?
   - QA testers?
@@ -38,12 +38,12 @@
 
 ## Calculating a Project Buffer
 
-Statistical practives
+Statistical practices
 
 1. Standard Distribution of Task Duration sd and variances between estimates and actual time
 2. Estimating at 50% confidence
 3. Estimating at 90% Confidence
-4. Both 50 & 90: come up with a range - local safety. Should fall betw
+4. Both 50 & 90: come up with a range - local safety. Should fall between
 
 - Critical Chain Project Management (CCPM)
   - Resources needed to complete task
@@ -57,12 +57,12 @@ Square Root of the Sum of the Squares - Mike Cohbn
 1. Take 90% worst case estimate
 2. Subtract 50% average estimate
 3. Divide results by 2 and square result
-4. Calculate sum of frsults for all the task
+4. Calculate sum of results for all the task
 5. Calculate square root of that result and multiply by two for the final result
 
 Guidelines
 
-- Buffer for porjects with more than 10 user stories
+- Buffer for projects with more than 10 user stories
 - Project buffer should be at least 20% total project duration
 
 ## Monitoring Iteration Progress
@@ -73,8 +73,8 @@ Guidelines
 - Short and simple
 - Share what has been done since last, what will be doing until next, what is blocking progress
 - Only talk about those three things, no
-- Scrummaster identify conversations for outside meeting. Table
-- Single, smaller porject teams
+- Scrum master identify conversations for outside meeting. Table
+- Single, smaller project teams
 - Set daily meeting at time when everyone is available
 - Set time limit (15 min)
 - Remain standing
@@ -83,12 +83,12 @@ Guidelines
 2. What will be done
 3. Impediments / blocking issues
 
-4. Backlog Grooming / Product Backlog Refinemens
+4. Backlog Grooming / Product Backlog Refinements
 
 - Reassess priority of user stories
 - Team ask clarifying questions
 - Team can refine estimates
-- Derived from roadmap and requirements
+- Derived from road map and requirements
 - Prioritizing list of work with business owners
 - Most important items listed first
 
@@ -97,7 +97,7 @@ Guidelines
 3. Determine next steps
 4. Develop small stories - break up existing or create new
 5. Prepare stories
-   Acceptance critera - success discussed with projuect owner
+   Acceptance criteria - success discussed with product owner
 
 - Should be collaborative between product owner and developers
 - Prior to or during development
@@ -116,13 +116,13 @@ Guidelines
 6. Project completion date
 
 - Show which items have been developed, tested, ready for release
-- Change as customer prioriteis change
+- Change as customer priorities change
 - Update every few iterations
 
 - Tools for tracking at project level include
-  1. Relesease Burnup / Burndown Charts
+  1. Release Burnup / Burndown Charts
      - Work outstanding in full project
-     - Story points vs interations estimated to complete
+     - Story points vs iterations estimated to complete
   2. Parking Lot Charts
      - Project progress by themes
      - High-level, complete overview
@@ -148,8 +148,8 @@ Iteration burnup/burndown at iteration level
 - Assumed velocity for team
 
 - Plan - this many story points in this much time
-- How many storypoints completed at any point in time
-- Work expresreed as storypoints completed over time
+- How many story points completed at any point in time
+- Work expressed as story points completed over time
 - Must divide work into user stories / story points
 - Planned value, Earned Value, Actual Costs
 - Good way to determine if on track in terms of cost and schedule
@@ -169,10 +169,10 @@ Iteration burnup/burndown at iteration level
 - Project work and product iterations
 
 1. Retrospectives
-   - Meetings at the end of work perios (iteration/release)
-   - Team-driven: May be faclitiated by others, but content from teAM
+   - Meetings at the end of work periods (iteration/release)
+   - Team-driven: May be facilitated by others, but content from teAM
    - EXAMINE WORK, ANALYZE RESULTS, ID WAYS TO IMPROVE
-   - More about teram dynamics than technical tasls
+   - More about team dynamics than technical tasks
    1. Set the stage
    2. Gather Data
    3. Generate insights
@@ -184,10 +184,10 @@ Iteration burnup/burndown at iteration level
    - Clearly understand situation at hand
    1. Display problem statement
       - Divide team into groups of <= 5 people
-        Why? - 1., 2., 3., 4., 5 Get causia
+        Why? - 1., 2., 3., 4., 5 Get causes
 3. Fishbone Diagram Analysis /Ishikawa
    - 5 whys - assign categories
-   - Realate causes to issues
+   - Relate causes to issues
    - Problem goes on right. Backbone line
    - Potential causes written as bone lines by cause category 4-5 levels
    - Represents all the potential causes
@@ -195,7 +195,7 @@ Iteration burnup/burndown at iteration level
    - Based on Deming Cycle
      1. Plan: with info we have now
      2. Do: implement part of plan
-     3. Check: measure preformance
+     3. Check: measure performance
      4. Act: change course and adapt
    - Total quality management movement
    - Continually inspect performance, interactions, teamwork, process, and progress
@@ -207,14 +207,14 @@ Iteration burnup/burndown at iteration level
 - Negative risks
 
   - Productivity variation
-    - Variation between planned and actial productivity
+    - Variation between planned and actual productivity
   - Scope Creep
   - Specification Breakdown
     - Lack of consensus on what to implement
-  - Personell Loss
+  - Personnel Loss
   - Poor Estimation
 
-- Risk estimation is a funciton of probability of a vent and severity of impact
+- Risk estimation is a function of probability of a vent and severity of impact
 - Risk severity = probability \* impact
 - Categories
 
@@ -226,14 +226,14 @@ Iteration burnup/burndown at iteration level
 - Pre-mortem Activity
 
   - Prior to release
-  - Prepare for challence
+  - Prepare for challenge
   - Simulate already failed case
-  - Identify reasons for filure
-  - Elimitate
-  - Brainstorm all possible pronlems, even remote chance
+  - Identify reasons for failure
+  - Eliminate
+  - Brainstorm all possible problems, even remote chance
   - Don't work on solution now, just identify potential problems
   - Identify 5-10 likely, major challenges
-  - Ignore things outsie control
+  - Ignore things outside control
   - Create solutions to top problems
   - Make backup plans
 
@@ -242,7 +242,7 @@ Iteration burnup/burndown at iteration level
   - Favorable vs adverse variance
   - Variance analysis
   - Significance of results: identify the standard and determine the interdependence
-- Maintain Contrtol
+- Maintain Control
   - Project budget
   - Spot trends
   - Identify opportunities
@@ -268,21 +268,21 @@ Iteration burnup/burndown at iteration level
 
   - Requires trained facilitator and note taker
   - About three hours
-  - Come out with a plan, bradcasr results
+  - Come out with a plan, broadcast results
 
 - Value Stream Mapping - describes flow of information and activities ideas from concept to implementation
 - Identify bottlenecks, queues, and silos
 
 1. Identify criteria
 2. identify current state
-3. Careate future state map
+3. Create future state map
 4. Implement future stat map
 
 - Identifies areas of waste
 - Required changes-
 - Improves efficiency
 
-Negatigve: stakeholders differentiate value / waste
+Negative: stakeholders differentiate value / waste
 
 ## Product Quality, Testing, and Integration
 
@@ -296,22 +296,22 @@ Negatigve: stakeholders differentiate value / waste
    - Code review
    - Peer review
    - Meets customers needs
-   - Walkthroughs, feedback, inspections, unit testing, custome
-   - Consistency, coorrectness, completebess
-3. Continupous Integration
-   - minimize effors
+   - Walkthroughs, feedback, inspections, unit testing, customer
+   - Consistency, correctness, completeness
+3. Continuous Integration
+   - minimize efforts
    - concurrent version system (CVS)
 
-- Agile testing - Save time and money - Costs less - Less documenation
+- Agile testing - Save time and money - Costs less - Less documentation
   Principles
 
-1. Testing continously - moves forward. all teams must participate, nobody exempt
+1. Testing continuously - moves forward. all teams must participate, nobody exempt
 2. Gathering continuous feedback - coding issues fixed
 3. Less documentation, but testing throughout the implementation
 
-- Exploratory, scripted approach - tapid development pace
+- Exploratory, scripted approach - rapid development pace
 - Autonomy, skill, creativity
-- Complementary to test automoation -
+- Complementary to test automation -
 
 - Usability focus
 - Exploratory technique
@@ -324,13 +324,13 @@ Negatigve: stakeholders differentiate value / waste
   - Minimize effort
   - Deliver suitable product
   - Maintain single source repository
-  - Automate biuld
+  - Automate build
   - Make builds
   - keeping build fast
   - Everyone commits to main line daily
   - Test in clone
-  - Easy for everyone to get latest executabe
+  - Easy for everyone to get latest executable
 
--Agile testing - continuous - mandatory - exploratoy - scripted
+-Agile testing - continuous - mandatory - exploratory - scripted
 
 focused on usability

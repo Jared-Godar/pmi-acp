@@ -127,17 +127,17 @@
 **XP: Extreme Programming**
 
 - Software engineering-centric model
-- Ongoing rapid delivery of software throug short, one-week iteration
+- Ongoing rapid delivery of software through short, one-week iteration
 
 **Lean Principle and Tools**
 
-- Guidelines for streamllining the process
+- Guidelines for streamlining the process
 
 1. Eliminate waste
-2. Build qyuality in
-3. Create knowldge
+2. Build quality in
+3. Create knowledge
 4. Defer commitment
-5. Deliver fasdt
+5. Deliver fast
 6. Respect people
 7. Optimize the whole
 
@@ -151,12 +151,12 @@
 **Crystal Methodologies**
 
 - Family named after colors of crystals by hardness
-- As complexity increcreases, so do the number of management steps
+- As complexity increases, so do the number of management steps
 
 **Feature-driven Development**
 
 - Client-centric
-- Acchitecture centric
+- Architecture centric
 - Pragmatic
 - Planned, managed, and tracked at feature level
 
@@ -235,7 +235,7 @@
    - Adapt if necessary
 4. Sprint Retrospective
    - What went well
-   - What didnt go well
+   - What didn't go well
    - Actions to take to improve
 
 Inspect and adapt throughout process
@@ -256,7 +256,7 @@ Factors to consider
 **ADAPT**
 
 1. Create awareness
-   - Problems, issues, inefficiences
+   - Problems, issues, inefficiencies
    - How agile can fix
 2. Desire
    - From Org or enough people within to make change
@@ -271,7 +271,7 @@ Factors to consider
 - Understand why
 - Change doing things
 - Governance
-- Clear benefits and improvement demonstragted
+- Clear benefits and improvement demonstrated
 
 ---
 
@@ -291,7 +291,7 @@ Factors to consider
    - Reason why
    - Inspire team
    - SMART
-3. Stratrgy
+3. Strategy
    - Plan to help customer with goals
 4. Project Vision
    - What you hope to achieve
@@ -311,10 +311,10 @@ Factors to consider
 
 - Direction to steer team
 - Product Vision
-  - Compelling statemennt about why
+  - Compelling statement about why
   - Benefit
   - Who building for
-  - Why you are uniquiely suited to do it
+  - Why you are uniquely suited to do it
   - Common understanding of requirements without
   - Interview stakeholders
     - Minimum and max
@@ -356,16 +356,16 @@ Factors to consider
 ## Agile Documentation
 
 - Working software over comprehensive documentation
-- Documnetation light - just enough to move forward and make progress
+- Documentation light - just enough to move forward and make progress
 - Simple and visual forms
 - Backlog
-- Burnup.burndown charts
+- Burnup. burndown charts
 - Sprint story backlog
 - Visual more effective
-- Documentation for every process in every project - meny think, but can hinder rather than help
+- Documentation for every process in every project - many think, but can hinder rather than help
 - Manage risk by delivering highest value items first
 - Team sharing in collaborative environment
-- Thorough details of requirements early are wasteful because they are almost guarenteed to change.
+- Thorough details of requirements early are wasteful because they are almost guaranteed to change.
 
 - Project overview
 
@@ -393,4 +393,4 @@ Factors to consider
   - User manuals
   - Quick reference guide
 
-- Documnents are stil generated, but dont document things you know will change, focus on what matters
+- Documents are still generated, but don't document things you know will change, focus on what matters
